@@ -1,0 +1,7 @@
+interface:
+  display_name: "ThinkCut"
+  short_description: "把模糊想法切成关键假设、压力测试和最小验证方案"
+  default_prompt: "Use $thinkcut to turn my idea into key assumptions, a stress pass, and a minimal validation plan."
+
+policy:
+  allow_implicit_invocation: true
